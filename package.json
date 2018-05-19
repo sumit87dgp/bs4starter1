@@ -1,0 +1,30 @@
+{
+  "name": "bs4starter1",
+  "version": "1.0.0",
+  "description": "Boot strap starter package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit87dgp/bs4starter1.git"
+  },
+  "author": "Sumit Saha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumit87dgp/bs4starter1/issues"
+  },
+  "homepage": "https://github.com/sumit87dgp/bs4starter1#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
